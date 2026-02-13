@@ -9,6 +9,7 @@ Coleção de skills customizadas para agentes AI (Gemini, Claude Code, Cursor, W
 | **gtm-expert** | Criar, editar, validar e gerenciar containers GTM JSON. Cobre tags Custom HTML, dataLayer, conversões (Google Ads, Meta Pixel, GA4), e sGTM. | `gtm`, `tag manager`, `container json` |
 | **gtm-expert-template-guimarketing** | Customizar o template GTM Leads 2025 da guimarketing para novos clientes. GA4 + Meta Pixel + Google Ads + VisitorAPI + UTM + sGTM. | `new client GTM`, `customize GTM template` |
 | **guimkt-classic-ad-creative** | Gerar conceitos criativos completos para Meta Ads e Google Ads. Copy, conceito visual, sketches de referência. | `meta ads criativos`, `ad creative` |
+| **giroguimkt-carousel** | Criar carrosséis completos para a editoria #giroguimkt do Instagram. Textos dos cards, prompts de imagem e legenda no tom editorial gui.marketing. | `#giroguimkt`, `giro da semana`, `carrossel semanal` |
 
 ## 🚀 Instalação
 
@@ -65,8 +66,16 @@ gui-marketing-skills/
 │   │   ├── references/template_inventory.md
 │   │   ├── scripts/customize_template.py
 │   │   └── templates/GTM-Web_Modelo_Leads_2025_guimarketing.json
-│   └── guimkt-classic-ad-creative/
-│       └── SKILL.MD
+│   ├── guimkt-classic-ad-creative/
+│   │   └── SKILL.MD
+│   └── giroguimkt-carousel/
+│       ├── SKILL.md
+│       ├── assets/ (8 reference images)
+│       └── references/
+│           ├── carousel-structure.md
+│           ├── editorial-voice.md
+│           ├── image-prompts.md
+│           └── caption-structure.md
 └── docs/
     └── bugs-aprendizados.md
 ```
