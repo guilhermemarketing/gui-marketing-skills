@@ -14,6 +14,13 @@ Coleção de skills customizadas para agentes AI (Gemini, Claude Code, Cursor, W
 | **interaction-design** | Design e implementação de microinterações, motion design, transições e feedback patterns. | `microinteraction`, `motion design`, `interaction` |
 | **animejs** | Anime.js v4 - animações web, timelines, SVG, scroll, draggable, stagger effects. | `anime.js`, `animejs`, `timeline animation` |
 | **matterjs** | Matter.js - física 2D, Engine/World setup, Render/Runner, bodies e constraints. | `matter.js`, `physics`, `2D physics` |
+| **animation-systems** | Motion product-grade estilo Stripe, Linear, Apple, Vercel. Princípios, easing, choreography, performance. | `animation systems`, `product motion`, `Stripe animation` |
+| **gsap** | GSAP (GreenSock) - timelines, ScrollTrigger, stagger, transforms. Animações profissionais web. | `gsap`, `greensock`, `ScrollTrigger` |
+| **vantajs** | Vanta.js - backgrounds WebGL animados (waves, birds, fog, net). Setup e integração React. | `vanta`, `webgl background`, `animated background` |
+| **pricing-page** | Design de pricing pages SaaS de alta conversão. Estrutura, copy, SEO/AEO, FAQs, layout patterns. | `pricing page`, `SaaS pricing`, `planos e preços` |
+| **css-border-gradient** | Gradient borders CSS com pseudo-element mask. Inclui Tailwind e customização. | `gradient border`, `border glow`, `css gradient` |
+| **responsive-design** | Layouts responsivos modernos: container queries, fluid typography, CSS Grid, mobile-first. | `responsive`, `container queries`, `fluid typography` |
+| **progressive-blur** | Progressive blur CSS com backdrop-filter masks em camadas. Top ou bottom. | `progressive blur`, `gradient blur`, `blur overlay` |
 
 ## 🚀 Instalação
 
@@ -85,6 +92,20 @@ gui-marketing-skills/
 │   ├── interaction-design/
 │   │   └── SKILL.md
 │   ├── matterjs/
+│   │   └── SKILL.md
+│   ├── animation-systems/
+│   │   └── SKILL.md
+│   ├── gsap/
+│   │   └── SKILL.md
+│   ├── vantajs/
+│   │   └── SKILL.md
+│   ├── pricing-page/
+│   │   └── SKILL.md
+│   ├── css-border-gradient/
+│   │   └── SKILL.md
+│   ├── responsive-design/
+│   │   └── SKILL.md
+│   ├── progressive-blur/
 │   │   └── SKILL.md
 │   └── threejs-animation/
 │       └── SKILL.md
