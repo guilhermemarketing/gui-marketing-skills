@@ -10,6 +10,10 @@ Coleção de skills customizadas para agentes AI (Gemini, Claude Code, Cursor, W
 | **gtm-expert-template-guimarketing** | Customizar o template GTM Leads 2025 da guimarketing para novos clientes. GA4 + Meta Pixel + Google Ads + VisitorAPI + UTM + sGTM. | `new client GTM`, `customize GTM template` |
 | **guimkt-classic-ad-creative** | Gerar conceitos criativos completos para Meta Ads e Google Ads. Copy, conceito visual, sketches de referência. | `meta ads criativos`, `ad creative` |
 | **giroguimkt-carousel** | Criar carrosséis completos para a editoria #giroguimkt do Instagram. Textos dos cards, prompts de imagem e legenda no tom editorial gui.marketing. | `#giroguimkt`, `giro da semana`, `carrossel semanal` |
+| **threejs-animation** | Three.js animation - keyframe animation, skeletal animation, morph targets, animation mixing. | `threejs`, `three.js animation`, `GLTF animation` |
+| **interaction-design** | Design e implementação de microinterações, motion design, transições e feedback patterns. | `microinteraction`, `motion design`, `interaction` |
+| **animejs** | Anime.js v4 - animações web, timelines, SVG, scroll, draggable, stagger effects. | `anime.js`, `animejs`, `timeline animation` |
+| **matterjs** | Matter.js - física 2D, Engine/World setup, Render/Runner, bodies e constraints. | `matter.js`, `physics`, `2D physics` |
 
 ## 🚀 Instalação
 
@@ -55,6 +59,16 @@ gui-marketing-skills/
 ├── README.md
 ├── install.sh
 ├── skills/
+│   ├── animejs/
+│   │   └── SKILL.md
+│   ├── giroguimkt-carousel/
+│   │   ├── SKILL.md
+│   │   ├── assets/ (8 reference images)
+│   │   └── references/
+│   │       ├── carousel-structure.md
+│   │       ├── editorial-voice.md
+│   │       ├── image-prompts.md
+│   │       └── caption-structure.md
 │   ├── gtm-expert/
 │   │   ├── SKILL.md
 │   │   ├── references/schema.md
@@ -68,14 +82,12 @@ gui-marketing-skills/
 │   │   └── templates/GTM-Web_Modelo_Leads_2025_guimarketing.json
 │   ├── guimkt-classic-ad-creative/
 │   │   └── SKILL.MD
-│   └── giroguimkt-carousel/
-│       ├── SKILL.md
-│       ├── assets/ (8 reference images)
-│       └── references/
-│           ├── carousel-structure.md
-│           ├── editorial-voice.md
-│           ├── image-prompts.md
-│           └── caption-structure.md
+│   ├── interaction-design/
+│   │   └── SKILL.md
+│   ├── matterjs/
+│   │   └── SKILL.md
+│   └── threejs-animation/
+│       └── SKILL.md
 └── docs/
     └── bugs-aprendizados.md
 ```
