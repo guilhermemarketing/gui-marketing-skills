@@ -5,22 +5,26 @@ Coleção de skills customizadas para agentes AI (Gemini, Claude Code, Cursor, W
 ## 📦 Skills Disponíveis
 
 | Skill | Descrição | Trigger |
-|-------|-----------|---------|
+|-------|-----------|---------|\
+| **animation-systems** | Motion product-grade estilo Stripe, Linear, Apple, Vercel. Princípios, easing, choreography, performance. | `animation systems`, `product motion`, `Stripe animation` |
+| **animejs** | Anime.js v4 - animações web, timelines, SVG, scroll, draggable, stagger effects. | `anime.js`, `animejs`, `timeline animation` |
+| **b2b-meme-troll** | Gera memes, trolls e posts provocativos para Instagram B2B de marketing digital. Conteúdo que quebra o padrão boring do B2B sem soar infantil. | `meme B2B`, `post provocativo`, `meta-troll`, `shitpost marketing` |
+| **css-border-gradient** | Gradient borders CSS com pseudo-element mask. Inclui Tailwind e customização. | `gradient border`, `border glow`, `css gradient` |
+| **giroguimkt-carousel** | Criar carrosséis completos para a editoria #giroguimkt do Instagram. Textos dos cards, prompts de imagem e legenda no tom editorial gui.marketing. | `#giroguimkt`, `giro da semana`, `carrossel semanal` |
+| **gsap** | GSAP (GreenSock) - timelines, ScrollTrigger, stagger, transforms. Animações profissionais web. | `gsap`, `greensock`, `ScrollTrigger` |
 | **gtm-expert** | Criar, editar, validar e gerenciar containers GTM JSON. Cobre tags Custom HTML, dataLayer, conversões (Google Ads, Meta Pixel, GA4), e sGTM. | `gtm`, `tag manager`, `container json` |
 | **gtm-expert-template-guimarketing** | Customizar o template GTM Leads 2025 da guimarketing para novos clientes. GA4 + Meta Pixel + Google Ads + VisitorAPI + UTM + sGTM. | `new client GTM`, `customize GTM template` |
+| **gui-blogpost-style** | Replica o estilo de escrita de blogpost do gui.marketing para criar artigos longos. Tom provocador, estrutura educacional, referências culturais. | `blogpost`, `artigo de blog`, `escreve no meu estilo`, `conteúdo longo` |
 | **guimkt-classic-ad-creative** | Gerar conceitos criativos completos para Meta Ads e Google Ads. Copy, conceito visual, sketches de referência. | `meta ads criativos`, `ad creative` |
-| **giroguimkt-carousel** | Criar carrosséis completos para a editoria #giroguimkt do Instagram. Textos dos cards, prompts de imagem e legenda no tom editorial gui.marketing. | `#giroguimkt`, `giro da semana`, `carrossel semanal` |
-| **threejs-animation** | Three.js animation - keyframe animation, skeletal animation, morph targets, animation mixing. | `threejs`, `three.js animation`, `GLTF animation` |
+| **guimkt-page-animation-boost** | Pacote premium de Motion e UX: GSAP animations, brutalist clip-paths, geometric parallax, CSS neon glows, bottom-up reveals e mobile micro-interactions. | `page animation boost`, `motion boost`, `animação landing page` |
+| **ia-marketing-philosophy** | Contexto e filosofia de IA Marketing do gui.marketing. Foco: gerar VALOR REAL, não SLOP. Posicionamento, objeções, consistência filosófica. | `valor vs slop`, `operação IA-first`, `IA no marketing`, `estrategista provocador` |
 | **interaction-design** | Design e implementação de microinterações, motion design, transições e feedback patterns. | `microinteraction`, `motion design`, `interaction` |
-| **animejs** | Anime.js v4 - animações web, timelines, SVG, scroll, draggable, stagger effects. | `anime.js`, `animejs`, `timeline animation` |
 | **matterjs** | Matter.js - física 2D, Engine/World setup, Render/Runner, bodies e constraints. | `matter.js`, `physics`, `2D physics` |
-| **animation-systems** | Motion product-grade estilo Stripe, Linear, Apple, Vercel. Princípios, easing, choreography, performance. | `animation systems`, `product motion`, `Stripe animation` |
-| **gsap** | GSAP (GreenSock) - timelines, ScrollTrigger, stagger, transforms. Animações profissionais web. | `gsap`, `greensock`, `ScrollTrigger` |
-| **vantajs** | Vanta.js - backgrounds WebGL animados (waves, birds, fog, net). Setup e integração React. | `vanta`, `webgl background`, `animated background` |
 | **pricing-page** | Design de pricing pages SaaS de alta conversão. Estrutura, copy, SEO/AEO, FAQs, layout patterns. | `pricing page`, `SaaS pricing`, `planos e preços` |
-| **css-border-gradient** | Gradient borders CSS com pseudo-element mask. Inclui Tailwind e customização. | `gradient border`, `border glow`, `css gradient` |
-| **responsive-design** | Layouts responsivos modernos: container queries, fluid typography, CSS Grid, mobile-first. | `responsive`, `container queries`, `fluid typography` |
 | **progressive-blur** | Progressive blur CSS com backdrop-filter masks em camadas. Top ou bottom. | `progressive blur`, `gradient blur`, `blur overlay` |
+| **responsive-design** | Layouts responsivos modernos: container queries, fluid typography, CSS Grid, mobile-first. | `responsive`, `container queries`, `fluid typography` |
+| **threejs-animation** | Three.js animation - keyframe animation, skeletal animation, morph targets, animation mixing. | `threejs`, `three.js animation`, `GLTF animation` |
+| **vantajs** | Vanta.js - backgrounds WebGL animados (waves, birds, fog, net). Setup e integração React. | `vanta`, `webgl background`, `animated background` |
 
 ## 🚀 Instalação
 
@@ -66,7 +70,18 @@ gui-marketing-skills/
 ├── README.md
 ├── install.sh
 ├── skills/
+│   ├── animation-systems/
+│   │   └── SKILL.md
 │   ├── animejs/
+│   │   └── SKILL.md
+│   ├── b2b-meme-troll/
+│   │   ├── SKILL.md
+│   │   └── references/
+│   │       ├── exemplos.md
+│   │       ├── formatos-e-tensoes.md
+│   │       ├── identidade-visual.md
+│   │       └── tom-e-principios.md
+│   ├── css-border-gradient/
 │   │   └── SKILL.md
 │   ├── giroguimkt-carousel/
 │   │   ├── SKILL.md
@@ -76,6 +91,8 @@ gui-marketing-skills/
 │   │       ├── editorial-voice.md
 │   │       ├── image-prompts.md
 │   │       └── caption-structure.md
+│   ├── gsap/
+│   │   └── SKILL.md
 │   ├── gtm-expert/
 │   │   ├── SKILL.md
 │   │   ├── references/schema.md
@@ -87,27 +104,31 @@ gui-marketing-skills/
 │   │   ├── references/template_inventory.md
 │   │   ├── scripts/customize_template.py
 │   │   └── templates/GTM-Web_Modelo_Leads_2025_guimarketing.json
+│   ├── gui-blogpost-style/
+│   │   └── SKILL.md
 │   ├── guimkt-classic-ad-creative/
 │   │   └── SKILL.MD
+│   ├── guimkt-page-animation-boost/
+│   │   ├── SKILL.md
+│   │   └── references/
+│   │       ├── 3d-web-experience.md
+│   │       ├── interaction-design.md
+│   │       └── motion-landing-page.md
+│   ├── ia-marketing-philosophy/
+│   │   └── SKILL.md
 │   ├── interaction-design/
 │   │   └── SKILL.md
 │   ├── matterjs/
 │   │   └── SKILL.md
-│   ├── animation-systems/
-│   │   └── SKILL.md
-│   ├── gsap/
-│   │   └── SKILL.md
-│   ├── vantajs/
-│   │   └── SKILL.md
 │   ├── pricing-page/
-│   │   └── SKILL.md
-│   ├── css-border-gradient/
-│   │   └── SKILL.md
-│   ├── responsive-design/
 │   │   └── SKILL.md
 │   ├── progressive-blur/
 │   │   └── SKILL.md
-│   └── threejs-animation/
+│   ├── responsive-design/
+│   │   └── SKILL.md
+│   ├── threejs-animation/
+│   │   └── SKILL.md
+│   └── vantajs/
 │       └── SKILL.md
 └── docs/
     └── bugs-aprendizados.md
