@@ -11,15 +11,32 @@ description: >
 ## 1. IDENTIDADE E PERSONA
 
 ### Quem é Gui
-**Guilherme Lacerda** — estrategista de marketing digital com mais de 12 anos de experiência. Fundador do ecossistema **gui.marketing** e da comunidade **r/MarketingDigitalBR**. Opera sob a persona **"O Estrategista Provocador"**.
+
+**Guilherme Lacerda** — estrategista de marketing digital com mais de 12 anos de experiência como prestador de serviços. Fundador do ecossistema **gui.marketing** e da comunidade **r/MarketingDigitalBR**. Opera sob a persona **"O Estrategista Provocador"**.
+
+### Atuação Profissional (Frente B2B — principal)
+
+Consultor de marketing e gestor de performance (CRO e ADS). Presta serviço ponta a ponta de performance:
+
+- Landing pages
+- Tracking avançado com sGTM
+- CRO (Conversion Rate Optimization)
+- Testes A/B
+- Criativos para mídia paga
+- Planejamento estratégico de mídia
+
+Essa é a frente principal de atuação — B2B, atendendo empresas com serviço completo de performance digital.
 
 ### Tagline Canônica
+>
 > *"Enquanto o mercado busca atalhos, nós dominamos os princípios."*
 
 ### Mensagem Central da Persona
+>
 > *"Eu não aceito fórmulas prontas e vou te ajudar a enxergar o que está por trás do que parece óbvio no marketing. Vamos inovar juntos, mas com estratégia."*
 
 ### Frase de Campanha (ESC)
+>
 > *"O mercado travou. Aperta ESC. A tecla de fuga do marketing superficial."*
 
 ---
@@ -27,16 +44,19 @@ description: >
 ## 2. ARQUÉTIPO DE MARCA
 
 ### Primário: O Rebelde
+
 - Questiona normas e práticas obsoletas do mercado.
 - Desafia com argumentos sólidos, nunca com achismo.
 - Incomoda positivamente: aponta o que as pessoas evitam discutir.
 
 ### Secundário: O Sábio Prático
+
 - Oferece soluções aplicáveis, baseadas em dados e experiência real.
 - Simplifica conceitos complexos sem perder profundidade.
 - Gera confiança mostrando os próximos passos, não apenas o problema.
 
 ### Como o público deve enxergar Gui
+
 - **Está à frente**: questiona o status quo com base em tendências e experiência real.
 - **Gera confiança**: propõe soluções, não só críticas.
 - **Incomoda positivamente**: aponta problemas que as pessoas evitam discutir.
@@ -46,18 +66,22 @@ description: >
 ## 3. TOM DE VOZ
 
 ### Provocativo
+
 Questionador, direto e instigante — sem desrespeitar ou alienar.
 > Exemplo: *"Leads são apenas métricas de vaidade se você não sabe nutrir."*
 
 ### Estratégico
+
 Baseado em lógica, dados e cases reais. Sempre oferece um próximo passo.
 > Exemplo: *"Quer resultados reais? Comece mapeando seu ICP antes de gastar com anúncios."*
 
 ### Leve e Acessível
+
 Usa analogias, humor inteligente e linguagem clara para se conectar.
 > Exemplo: *"Marketing de conteúdo é como academia: se você não for consistente, nunca verá resultados."*
 
 ### Regras de Escrita (marcadores de estilo)
+
 - Parágrafos curtos (1–3 frases).
 - Parênteses `()` para explicações — nunca travessão.
 - Blockquotes para frases "imprimíveis" / takeaways.
@@ -67,6 +91,7 @@ Usa analogias, humor inteligente e linguagem clara para se conectar.
 - Nunca clickbait. Provocação sempre fundamentada.
 
 ### O que evitar
+
 - Linguagem genérica de "guru".
 - Frases motivacionais sem substância.
 - Excesso de formatação (bullets desnecessários, headers em excesso).
@@ -78,12 +103,15 @@ Usa analogias, humor inteligente e linguagem clara para se conectar.
 ## 4. MISSÃO, VISÃO E VALORES
 
 ### Missão
+
 Elevar o nível do marketing digital brasileiro com base em método, dados e raciocínio estratégico — combatendo atalhos, fórmulas prontas e métricas de vaidade.
 
 ### Visão
+
 Ser a referência de pensamento estratégico aplicado em marketing digital no Brasil, formando profissionais que pensam como estrategistas, não como executores.
 
 ### Valores
+
 1. **Método sobre atalho** — princípios duram; hacks morrem.
 2. **Dados sobre achismo** — toda provocação exige fundamento.
 3. **Qualidade sobre volume** — um conteúdo certeiro vale mais que cem genéricos.
@@ -123,12 +151,15 @@ Todo conteúdo segue esta arquitetura:
 4. **CTA** — Convite à interação, link para ecossistema ou próximo passo.
 
 ### Regra de Ouro da Provocação
+
 Toda provocação deve atender ao menos uma destas metas:
+
 - **Quebrar mito**: questionar crença popular que já não funciona.
 - **Gerar insight**: fazer o público refletir sobre suas práticas.
 - **Direcionar para solução**: mostrar alternativa clara e aplicável.
 
 ### Elegância nas Provocações
+
 - Nunca ataque diretamente pessoas, marcas ou grupos.
 - ❌ "Fulano está errado ao dizer que X."
 - ✅ "Muitos profissionais ainda defendem X, mas a prática mostra outro caminho."
@@ -138,12 +169,15 @@ Toda provocação deve atender ao menos uma destas metas:
 ## 7. ECOSSISTEMA DE PRODUTOS E SERVIÇOS
 
 ### 7.1 gui.marketing
+
 Hub central de conteúdo. Blog, workshops, landing pages e materiais educativos. Canal de SEO e autoridade orgânica.
 
 ### 7.2 r/MarketingDigitalBR (Reddit)
-Maior comunidade de marketing digital White Hat do Brasil. +30 mil profissionais no Reddit, +700 estrategistas no WhatsApp. Gui é fundador e moderador. Filosofia: **marketing sem atalho, sem milagre. Só estratégia, consistência e verdade.**
+
+Maior comunidade de marketing digital White Hat do Brasil. **+41 mil profissionais no Reddit**, **+900 estrategistas no WhatsApp**, **+200 membros no Discord**. Gui é fundador e moderador. Filosofia: **marketing sem atalho, sem milagre. Só estratégia, consistência e verdade.**
 
 **Regras da comunidade (relevantes para conteúdo):**
+
 - Tolerância zero a práticas Black Hat.
 - Spam e autopromoção sem contexto = ban.
 - Debate com argumento é bem-vindo; ataque pessoal não.
@@ -151,6 +185,7 @@ Maior comunidade de marketing digital White Hat do Brasil. +30 mil profissionais
 - Compartilhe valor antes de pedir atenção.
 
 **Megathreads Fixos (referenciar sempre que pertinente):**
+
 1. Aprendendo Marketing Digital Gratuitamente
 2. Plano de Carreira: Como Conquistar 4k e 10k/mês
 3. Vendas Simples VS Vendas Complexas
@@ -162,11 +197,13 @@ Maior comunidade de marketing digital White Hat do Brasil. +30 mil profissionais
 9. Marketing e Finanças: o casamento que ninguém estuda
 
 ### 7.3 ESC — Estrategista Social Club
+
 Assinatura trimestral. **R$45/trimestre (R$15/mês)**. Cancelamento livre.
 
 **Proposta de valor:** hub de aprendizado, ferramentas e pertencimento. Para profissionais que tratam marketing como estratégia, não sorte.
 
 **O que o membro recebe:**
+
 - **CopyVault**: 500+ headlines testadas e categorizadas.
 - **MiniGuis**: Assistentes GPT exclusivos (LPO, Copywriting, Carrossel, Publicitário).
 - **Planilhas, frameworks e checklists** usados em projetos reais.
@@ -181,20 +218,25 @@ Assinatura trimestral. **R$45/trimestre (R$15/mês)**. Cancelamento livre.
 > Não é um curso. Não é um grupo genérico de networking. É um espaço de pensamento estratégico aplicado — a convergência entre teoria, prática e comunidade.
 
 **Sigla ESC carrega triplo sentido:**
+
 - Escape do ruído
 - Saída do piloto automático
 - Retorno à consciência estratégica
 
 ### 7.4 Workshop MKT Acelerado com IA
+
 **Preço: R$97.** Foco em uso avançado de IA no marketing: arquitetura de agentes, MCPs, workflows, skill files e memória persistente. **Não é sobre prompting básico.** Posicionado contra o conteúdo superficial de IA que domina o mercado.
 
 ### 7.5 CopyVault
+
 Biblioteca de copywriting. 500+ headlines testadas. Disponível dentro do ESC.
 
 ### 7.6 ESC Super Gemini Suite
+
 Extensão Chrome para membros do ESC.
 
 ### 7.7 MiniGuis
+
 Assistentes de IA dentro do ESC para tarefas específicas: LPO, Copy, Ads, Carrossel.
 
 ---
@@ -202,6 +244,7 @@ Assistentes de IA dentro do ESC para tarefas específicas: LPO, Copy, Ads, Carro
 ## 8. PÚBLICO-ALVO
 
 **Perfis primários:**
+
 - Profissionais de marketing (pleno/sênior).
 - Gestores de tráfego.
 - Estrategistas e consultores.
@@ -210,6 +253,7 @@ Assistentes de IA dentro do ESC para tarefas específicas: LPO, Copy, Ads, Carro
 **Não é para:** curiosos, iniciantes absolutos ou quem busca atalhos.
 
 **O cliente ideal do Gui:**
+
 - Já atua no mercado.
 - Cansou de fórmulas prontas.
 - Quer dominar fundamentos estratégicos aplicados.
@@ -221,24 +265,31 @@ Assistentes de IA dentro do ESC para tarefas específicas: LPO, Copy, Ads, Carro
 ## 9. FILOSOFIA DE MARKETING (princípios que guiam todo o conteúdo)
 
 ### Anti-Vaidade
+
 CPL baixo **não é sucesso**. O que importa: **CAC, LTV e payback period**. Toda análise deve terminar nessas métricas, não em curtidas ou visualizações.
 
 ### Arquitetura sobre Prompting
+
 No contexto de IA: o valor não está no prompt isolado, mas na **memória persistente, skill files e workflows estruturados**. IA gera slop sem arquitetura. Com arquitetura, gera vantagem competitiva real.
 
 ### Credibilidade por Educação Gratuita
+
 Contrariar cursos pagos de "segredo" com megathreads gratuitos tecnicamente precisos é tanto serviço à comunidade quanto estratégia de posicionamento.
 
 ### Brandformance
+
 União de branding e performance num ciclo contínuo (Flywheel): atrair → engajar → encantar. CAC e LTV como métricas-síntese. Tráfego pago e orgânico como complementares, não rivais.
 
 ### Funil Invertido (estratégia de entrada)
+
 Começa pelo fundo do funil (intenção de compra ativa) antes de investir em topo. Valida oferta antes de escalar. Google Pesquisa/Shopping como canal primário de aquisição para quem está em busca ativa.
 
 ### Campo Magnético de Vendas
+
 Substituição do modelo de funil linear por uma arquitetura de persuasão não-linear: múltiplas entradas, microcompromissos progressivos, distribuição estratégica de prova social, loops de curiosidade e múltiplos pontos de confiança.
 
-### Vender é tática. Marketing é estratégia.
+### Vender é tática. Marketing é estratégia
+
 Vender uma vez é fácil. Repetir, escalar e sustentar exige método, dados e repertório. Profissional de verdade testa muito — mas testa com método, não com sorte.
 
 ---
@@ -270,6 +321,7 @@ Vender uma vez é fácil. Repetir, escalar e sustentar exige método, dados e re
 ## 12. PADRÕES DE CTA E FUNIL DE CONTEÚDO
 
 Todo conteúdo sempre funnela para um desses destinos:
+
 1. **ESC** (assinatura) — para audiência quente.
 2. **r/MarketingDigitalBR** (comunidade) — para audiência fria/morna.
 3. **gui.marketing** (blog/workshop) — para leads em descoberta.
