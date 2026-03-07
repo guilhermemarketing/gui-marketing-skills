@@ -18,6 +18,7 @@ Coleção de skills customizadas para agentes AI (Gemini, Claude Code, Cursor, W
 | **gui-blogpost-style** | Replica o estilo de escrita de blogpost do gui.marketing para criar artigos longos. Tom provocador, estrutura educacional, referências culturais. | `blogpost`, `artigo de blog`, `escreve no meu estilo`, `conteúdo longo` |
 | **guimkt-classic-ad-creative** | Gerar conceitos criativos completos para Meta Ads e Google Ads. Copy, conceito visual, sketches de referência. | `meta ads criativos`, `ad creative` |
 | **guimarketing-filosofia-contexto** | Contexto completo de identidade do gui.marketing: persona, tom de voz, posicionamento, missão/visão/valores, arquétipo, produtos/serviços, público-alvo e filosofia de conteúdo. Skill de contexto-raiz. | `meu tom de voz`, `minha persona`, `gui.marketing`, `ESC`, `Guiverso` |
+| **guimkt-design-system-extractor** | Extrai design systems completos de websites para gerar arquivos .md com cores, tipografia, componentes, assets e CSS variables. | `extrair design system`, `analisar identidade visual`, `capturar estilo de um site` |
 | **guimkt-image-gen** | Gera prompts de imagem editorial e infográficos no estilo neo-brutalist punk da marca gui.marketing. Dois modos: ilustrações (sem texto) e infográficos (com dados/texto). | `gerar imagem`, `infográfico`, `visual do card`, `ilustração do post` |
 | **guimkt-page-animation-boost** | Pacote premium de Motion e UX: GSAP animations, brutalist clip-paths, geometric parallax, CSS neon glows, bottom-up reveals e mobile micro-interactions. | `page animation boost`, `motion boost`, `animação landing page` |
 | **ia-marketing-philosophy** | Contexto e filosofia de IA Marketing do gui.marketing. Foco: gerar VALOR REAL, não SLOP. Posicionamento, objeções, consistência filosófica. | `valor vs slop`, `operação IA-first`, `IA no marketing`, `estrategista provocador` |
@@ -115,6 +116,8 @@ gui-marketing-skills/
 │   │   └── SKILL.md
 │   ├── guimkt-classic-ad-creative/
 │   │   └── SKILL.MD
+│   ├── guimkt-design-system-extractor/
+│   │   └── SKILL.md
 │   ├── guimkt-image-gen/
 │   │   ├── SKILL.md
 │   │   └── references/
