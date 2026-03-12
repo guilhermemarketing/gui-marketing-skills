@@ -24,10 +24,12 @@ Coleção de skills customizadas para agentes AI (Gemini, Claude Code, Cursor, W
 | **guimkt-page-animation-boost** | Pacote premium de Motion e UX: GSAP animations, brutalist clip-paths, geometric parallax, CSS neon glows, bottom-up reveals e mobile micro-interactions. | `page animation boost`, `motion boost`, `animação landing page` |
 | **ia-marketing-philosophy** | Contexto e filosofia de IA Marketing do gui.marketing. Foco: gerar VALOR REAL, não SLOP. Posicionamento, objeções, consistência filosófica. | `valor vs slop`, `operação IA-first`, `IA no marketing`, `estrategista provocador` |
 | **interaction-design** | Design e implementação de microinterações, motion design, transições e feedback patterns. | `microinteraction`, `motion design`, `interaction` |
+| **make-blueprint-expert** | Criar, editar, debugar e otimizar blueprints Make.com via JSON. HTTP modules, routers, roleta, Facebook Lead Ads, DataCrazy CRM. | `Make.com`, `Make blueprint`, `cenário Make`, `jsonStringBodyContent` |
 | **matterjs** | Matter.js - física 2D, Engine/World setup, Render/Runner, bodies e constraints. | `matter.js`, `physics`, `2D physics` |
 | **pricing-page** | Design de pricing pages SaaS de alta conversão. Estrutura, copy, SEO/AEO, FAQs, layout patterns. | `pricing page`, `SaaS pricing`, `planos e preços` |
 | **progressive-blur** | Progressive blur CSS com backdrop-filter masks em camadas. Top ou bottom. | `progressive blur`, `gradient blur`, `blur overlay` |
 | **responsive-design** | Layouts responsivos modernos: container queries, fluid typography, CSS Grid, mobile-first. | `responsive`, `container queries`, `fluid typography` |
+| **skill-creator** | Criar, testar e otimizar skills para agentes AI. Workflow completo: draft → test → review → improve → repeat. | `skill-creator`, `criar skill`, `nova skill`, `melhorar skill` |
 | **threejs-animation** | Three.js animation - keyframe animation, skeletal animation, morph targets, animation mixing. | `threejs`, `three.js animation`, `GLTF animation` |
 | **vantajs** | Vanta.js - backgrounds WebGL animados (waves, birds, fog, net). Setup e integração React. | `vanta`, `webgl background`, `animated background` |
 
@@ -141,6 +143,8 @@ gui-marketing-skills/
 │   │   └── SKILL.md
 │   ├── interaction-design/
 │   │   └── SKILL.md
+│   ├── make-blueprint-expert/
+│   │   └── SKILL.md
 │   ├── matterjs/
 │   │   └── SKILL.md
 │   ├── pricing-page/
@@ -149,6 +153,13 @@ gui-marketing-skills/
 │   │   └── SKILL.md
 │   ├── responsive-design/
 │   │   └── SKILL.md
+│   ├── skill-creator/
+│   │   ├── SKILL.md
+│   │   ├── agents/
+│   │   ├── assets/
+│   │   ├── eval-viewer/
+│   │   ├── references/
+│   │   └── scripts/
 │   ├── threejs-animation/
 │   │   └── SKILL.md
 │   └── vantajs/
