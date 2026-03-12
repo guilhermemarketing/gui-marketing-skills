@@ -1,5 +1,5 @@
 ---
-name: gui-blogpost-style
+name: guimkt-blogpost-style
 description: Replica o estilo de escrita de blogpost do Guilherme Lacerda (gui.marketing) para criar novos artigos longos de blog. Use sempre que o usuário pedir para escrever um blogpost, artigo de blog, post longo, guia completo, thread longa, megathread, ou conteúdo educacional extenso no estilo do gui.marketing. Também use quando o usuário mencionar "escreve no meu estilo", "replica meu tom", "blogpost como os do site", "artigo pro blog", "conteúdo longo pro site", ou qualquer variação de criação de conteúdo editorial longo. NÃO use para posts curtos de redes sociais, memes, carrosséis ou copies de ads — essas são outras skills.
 ---
 

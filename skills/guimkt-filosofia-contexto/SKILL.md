@@ -1,5 +1,5 @@
 ---
-name: guimarketing-filosofia-contexto
+name: guimkt-filosofia-contexto
 description: >
   Injeta o contexto completo de identidade do Guilherme Lacerda (gui.marketing): persona, tom de voz, posicionamento, missão/visão/valores, arquétipo de marca, inimigos da persona, produtos e serviços, ecossistema, público-alvo e filosofia de conteúdo. Use SEMPRE que a tarefa envolver criar, revisar ou adaptar qualquer conteúdo em nome do gui.marketing — posts, carrosséis, copies, e-mails, scripts, threads, blogposts, landing pages, estratégia de conteúdo, CTAs, posicionamento ou qualquer output que deva soar como "O Estrategista Provocador". Também use quando o usuário mencionar "meu tom de voz", "minha persona", "meu posicionamento", "ESC", "r/MarketingDigitalBR", "gui.marketing", "Guiverso", ou pedir que o conteúdo seja coerente com sua identidade de marca. Esta é a skill de contexto-raiz do ecossistema gui.marketing — consulte-a sempre antes de qualquer skill de produção de conteúdo.
 ---

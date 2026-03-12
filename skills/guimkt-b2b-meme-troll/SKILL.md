@@ -1,5 +1,5 @@
 ---
-name: b2b-meme-troll
+name: guimkt-b2b-meme-troll
 description: >
   Gera memes, trolls e posts provocativos para o Instagram @guilherme.marketing,
   voltados para público B2B de marketing digital corporativo. Cria conteúdo que

@@ -8,23 +8,23 @@ Coleção de skills customizadas para agentes AI (Gemini, Claude Code, Cursor, W
 |-------|-----------|---------|\
 | **animation-systems** | Motion product-grade estilo Stripe, Linear, Apple, Vercel. Princípios, easing, choreography, performance. | `animation systems`, `product motion`, `Stripe animation` |
 | **animejs** | Anime.js v4 - animações web, timelines, SVG, scroll, draggable, stagger effects. | `anime.js`, `animejs`, `timeline animation` |
-| **b2b-meme-troll** | Gera memes, trolls e posts provocativos para Instagram B2B de marketing digital. Conteúdo que quebra o padrão boring do B2B sem soar infantil. | `meme B2B`, `post provocativo`, `meta-troll`, `shitpost marketing` |
+| **guimkt-b2b-meme-troll** | Gera memes, trolls e posts provocativos para Instagram B2B de marketing digital. Conteúdo que quebra o padrão boring do B2B sem soar infantil. | `meme B2B`, `post provocativo`, `meta-troll`, `shitpost marketing` |
 | **css-border-gradient** | Gradient borders CSS com pseudo-element mask. Inclui Tailwind e customização. | `gradient border`, `border glow`, `css gradient` |
 | **feedback-interpreter** | Interpreta e aplica feedbacks exportados do Feedback Studio (.md) em landing pages, wireframes e criativos. | `aplicar feedbacks`, `feedback studio`, `feedbacks exportados` |
-| **giroguimkt-carousel** | Criar carrosséis completos para a editoria #giroguimkt do Instagram. Textos dos cards, prompts de imagem e legenda no tom editorial gui.marketing. | `#giroguimkt`, `giro da semana`, `carrossel semanal` |
+| **guimkt-giro-carousel** | Criar carrosséis completos para a editoria #giroguimkt do Instagram. Textos dos cards, prompts de imagem e legenda no tom editorial gui.marketing. | `#giroguimkt`, `giro da semana`, `carrossel semanal` |
 | **gsap** | GSAP (GreenSock) - timelines, ScrollTrigger, stagger, transforms. Animações profissionais web. | `gsap`, `greensock`, `ScrollTrigger` |
-| **gtm-expert** | Criar, editar, validar e gerenciar containers GTM JSON. Cobre tags Custom HTML, dataLayer, conversões (Google Ads, Meta Pixel, GA4), e sGTM. | `gtm`, `tag manager`, `container json` |
-| **gtm-expert-template-guimarketing** | Customizar o template GTM Leads 2025 da guimarketing para novos clientes. GA4 + Meta Pixel + Google Ads + VisitorAPI + UTM + sGTM. | `new client GTM`, `customize GTM template` |
-| **gui-blogpost-style** | Replica o estilo de escrita de blogpost do gui.marketing para criar artigos longos. Tom provocador, estrutura educacional, referências culturais. | `blogpost`, `artigo de blog`, `escreve no meu estilo`, `conteúdo longo` |
+| **guimkt-gtm-expert** | Criar, editar, validar e gerenciar containers GTM JSON. Cobre tags Custom HTML, dataLayer, conversões (Google Ads, Meta Pixel, GA4), e sGTM. | `gtm`, `tag manager`, `container json` |
+| **guimkt-gtm-expert-template** | Customizar o template GTM Leads 2025 da guimarketing para novos clientes. GA4 + Meta Pixel + Google Ads + VisitorAPI + UTM + sGTM. | `new client GTM`, `customize GTM template` |
+| **guimkt-blogpost-style** | Replica o estilo de escrita de blogpost do gui.marketing para criar artigos longos. Tom provocador, estrutura educacional, referências culturais. | `blogpost`, `artigo de blog`, `escreve no meu estilo`, `conteúdo longo` |
 | **guimkt-classic-ad-creative** | Gerar conceitos criativos completos para Meta Ads e Google Ads. Copy, conceito visual, sketches de referência. | `meta ads criativos`, `ad creative` |
-| **guimarketing-filosofia-contexto** | Contexto completo de identidade do gui.marketing: persona, tom de voz, posicionamento, missão/visão/valores, arquétipo, produtos/serviços, público-alvo e filosofia de conteúdo. Skill de contexto-raiz. | `meu tom de voz`, `minha persona`, `gui.marketing`, `ESC`, `Guiverso` |
-| **guimarketing-landing-page-optimization** | Landing Page Optimization (LPO) — análise, auditoria, criação, copy, frameworks de copywriting (AIDA, PAS, FAB, BAB, QUEST, PASTOR), fórmula de conversão C=4m+3v+2(i-f)-2a. | `landing page`, `otimizar LP`, `CRO`, `copy para landing page`, `auditoria de página` |
+| **guimkt-filosofia-contexto** | Contexto completo de identidade do gui.marketing: persona, tom de voz, posicionamento, missão/visão/valores, arquétipo, produtos/serviços, público-alvo e filosofia de conteúdo. Skill de contexto-raiz. | `meu tom de voz`, `minha persona`, `gui.marketing`, `ESC`, `Guiverso` |
+| **guimkt-landing-page-optimization** | Landing Page Optimization (LPO) — análise, auditoria, criação, copy, frameworks de copywriting (AIDA, PAS, FAB, BAB, QUEST, PASTOR), fórmula de conversão C=4m+3v+2(i-f)-2a. | `landing page`, `otimizar LP`, `CRO`, `copy para landing page`, `auditoria de página` |
 | **guimkt-design-system-extractor** | Extrai design systems completos de websites para gerar arquivos .md com cores, tipografia, componentes, assets e CSS variables. | `extrair design system`, `analisar identidade visual`, `capturar estilo de um site` |
 | **guimkt-image-gen** | Gera prompts de imagem editorial e infográficos no estilo neo-brutalist punk da marca gui.marketing. Dois modos: ilustrações (sem texto) e infográficos (com dados/texto). | `gerar imagem`, `infográfico`, `visual do card`, `ilustração do post` |
 | **guimkt-page-animation-boost** | Pacote premium de Motion e UX: GSAP animations, brutalist clip-paths, geometric parallax, CSS neon glows, bottom-up reveals e mobile micro-interactions. | `page animation boost`, `motion boost`, `animação landing page` |
-| **ia-marketing-philosophy** | Contexto e filosofia de IA Marketing do gui.marketing. Foco: gerar VALOR REAL, não SLOP. Posicionamento, objeções, consistência filosófica. | `valor vs slop`, `operação IA-first`, `IA no marketing`, `estrategista provocador` |
+| **guimkt-ia-marketing-philosophy** | Contexto e filosofia de IA Marketing do gui.marketing. Foco: gerar VALOR REAL, não SLOP. Posicionamento, objeções, consistência filosófica. | `valor vs slop`, `operação IA-first`, `IA no marketing`, `estrategista provocador` |
 | **interaction-design** | Design e implementação de microinterações, motion design, transições e feedback patterns. | `microinteraction`, `motion design`, `interaction` |
-| **make-blueprint-expert** | Criar, editar, debugar e otimizar blueprints Make.com via JSON. HTTP modules, routers, roleta, Facebook Lead Ads, DataCrazy CRM. | `Make.com`, `Make blueprint`, `cenário Make`, `jsonStringBodyContent` |
+| **guimkt-make-blueprint-expert** | Criar, editar, debugar e otimizar blueprints Make.com via JSON. HTTP modules, routers, roleta, Facebook Lead Ads, DataCrazy CRM. | `Make.com`, `Make blueprint`, `cenário Make`, `jsonStringBodyContent` |
 | **matterjs** | Matter.js - física 2D, Engine/World setup, Render/Runner, bodies e constraints. | `matter.js`, `physics`, `2D physics` |
 | **pricing-page** | Design de pricing pages SaaS de alta conversão. Estrutura, copy, SEO/AEO, FAQs, layout patterns. | `pricing page`, `SaaS pricing`, `planos e preços` |
 | **progressive-blur** | Progressive blur CSS com backdrop-filter masks em camadas. Top ou bottom. | `progressive blur`, `gradient blur`, `blur overlay` |
@@ -81,7 +81,7 @@ gui-marketing-skills/
 │   │   └── SKILL.md
 │   ├── animejs/
 │   │   └── SKILL.md
-│   ├── b2b-meme-troll/
+│   ├── guimkt-b2b-meme-troll/
 │   │   ├── SKILL.md
 │   │   └── references/
 │   │       ├── exemplos.md
@@ -92,7 +92,7 @@ gui-marketing-skills/
 │   │   └── SKILL.md
 │   ├── feedback-interpreter/
 │   │   └── SKILL.md
-│   ├── giroguimkt-carousel/
+│   ├── guimkt-giro-carousel/
 │   │   ├── SKILL.md
 │   │   ├── assets/ (8 reference images)
 │   │   └── references/
@@ -102,22 +102,22 @@ gui-marketing-skills/
 │   │       └── caption-structure.md
 │   ├── gsap/
 │   │   └── SKILL.md
-│   ├── gtm-expert/
+│   ├── guimkt-gtm-expert/
 │   │   ├── SKILL.md
 │   │   ├── references/schema.md
 │   │   └── scripts/
 │   │       ├── validate_gtm.py
 │   │       └── verify_es5.py
-│   ├── gtm-expert-template-guimarketing/
+│   ├── guimkt-gtm-expert-template/
 │   │   ├── SKILL.md
 │   │   ├── references/template_inventory.md
 │   │   ├── scripts/customize_template.py
 │   │   └── templates/GTM-Web_Modelo_Leads_2025_guimarketing.json
-│   ├── gui-blogpost-style/
+│   ├── guimkt-blogpost-style/
 │   │   └── SKILL.md
-│   ├── guimarketing-filosofia-contexto/
+│   ├── guimkt-filosofia-contexto/
 │   │   └── SKILL.md
-│   ├── guimarketing-landing-page-optimization/
+│   ├── guimkt-landing-page-optimization/
 │   │   ├── SKILL.md
 │   │   └── references/
 │   │       ├── copywriting-frameworks.md
@@ -139,11 +139,11 @@ gui-marketing-skills/
 │   │       ├── 3d-web-experience.md
 │   │       ├── interaction-design.md
 │   │       └── motion-landing-page.md
-│   ├── ia-marketing-philosophy/
+│   ├── guimkt-ia-marketing-philosophy/
 │   │   └── SKILL.md
 │   ├── interaction-design/
 │   │   └── SKILL.md
-│   ├── make-blueprint-expert/
+│   ├── guimkt-make-blueprint-expert/
 │   │   └── SKILL.md
 │   ├── matterjs/
 │   │   └── SKILL.md

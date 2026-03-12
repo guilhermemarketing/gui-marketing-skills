@@ -1,5 +1,5 @@
 ---
-name: giroguimkt-carousel
+name: guimkt-giro-carousel
 description: >
   Cria carrosséis completos para a editoria #giroguimkt do Instagram (@guilherme.marketing).
   Gera todos os textos dos cards, prompts de imagem detalhados para cada slide, e o texto-legenda

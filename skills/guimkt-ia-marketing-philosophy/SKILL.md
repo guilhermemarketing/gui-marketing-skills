@@ -1,5 +1,5 @@
 ---
-name: ia-marketing-philosophy
+name: guimkt-ia-marketing-philosophy
 description: >
   Injeta o contexto, posicionamento e filosofia de IA Marketing do gui.marketing em qualquer
   conversa sobre marketing com inteligência artificial. Foco central: gerar VALOR REAL, não
