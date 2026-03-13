@@ -22,10 +22,12 @@ Coleção de skills customizadas para agentes AI (Gemini, Claude Code, Cursor, W
 | **guimkt-landing-page-optimization** | Landing Page Optimization (LPO) — análise, auditoria, criação, copy, frameworks de copywriting (AIDA, PAS, FAB, BAB, QUEST, PASTOR), fórmula de conversão C=4m+3v+2(i-f)-2a. | `landing page`, `otimizar LP`, `CRO`, `copy para landing page`, `auditoria de página` |
 | **guimkt-design-system-extractor** | Extrai design systems completos de websites para gerar arquivos .md com cores, tipografia, componentes, assets e CSS variables. | `extrair design system`, `analisar identidade visual`, `capturar estilo de um site` |
 | **guimkt-image-gen** | Gera prompts de imagem editorial e infográficos no estilo neo-brutalist punk da marca gui.marketing. Dois modos: ilustrações (sem texto) e infográficos (com dados/texto). | `gerar imagem`, `infográfico`, `visual do card`, `ilustração do post` |
+| **guimkt-landing-page** | Gera landing pages premium completas para leads (SQL) em 2 fases: Wireframe-Tabela (frameworks de copywriting) + HTML premium com liquid glass, micro-animations e scroll effects. | `landing page premium`, `criar LP`, `landing page HTML`, `LP de conversão` |
 | **guimkt-page-animation-boost** | Pacote premium de Motion e UX: GSAP animations, brutalist clip-paths, geometric parallax, CSS neon glows, bottom-up reveals e mobile micro-interactions. | `page animation boost`, `motion boost`, `animação landing page` |
 | **guimkt-ia-marketing-philosophy** | Contexto e filosofia de IA Marketing do gui.marketing. Foco: gerar VALOR REAL, não SLOP. Posicionamento, objeções, consistência filosófica. | `valor vs slop`, `operação IA-first`, `IA no marketing`, `estrategista provocador` |
 | **interaction-design** | Design e implementação de microinterações, motion design, transições e feedback patterns. | `microinteraction`, `motion design`, `interaction` |
 | **guimkt-make-blueprint-expert** | Criar, editar, debugar e otimizar blueprints Make.com via JSON. HTTP modules, routers, roleta, Facebook Lead Ads, DataCrazy CRM. | `Make.com`, `Make blueprint`, `cenário Make`, `jsonStringBodyContent` |
+| **guimkt-meta-ads** | Gera 6 conceitos criativos completos para Meta Ads (Facebook/Instagram). Cada conceito inclui estratégia, copy, conceito visual, prompt de imagem e adaptações por placement. | `Meta Ads`, `criativos Instagram`, `Facebook Ads`, `anúncios Meta` |
 | **matterjs** | Matter.js - física 2D, Engine/World setup, Render/Runner, bodies e constraints. | `matter.js`, `physics`, `2D physics` |
 | **pricing-page** | Design de pricing pages SaaS de alta conversão. Estrutura, copy, SEO/AEO, FAQs, layout patterns. | `pricing page`, `SaaS pricing`, `planos e preços` |
 | **progressive-blur** | Progressive blur CSS com backdrop-filter masks em camadas. Top ou bottom. | `progressive blur`, `gradient blur`, `blur overlay` |
@@ -33,6 +35,7 @@ Coleção de skills customizadas para agentes AI (Gemini, Claude Code, Cursor, W
 | **skill-creator** | Criar, testar e otimizar skills para agentes AI. Workflow completo: draft → test → review → improve → repeat. | `skill-creator`, `criar skill`, `nova skill`, `melhorar skill` |
 | **threejs-animation** | Three.js animation - keyframe animation, skeletal animation, morph targets, animation mixing. | `threejs`, `three.js animation`, `GLTF animation` |
 | **vantajs** | Vanta.js - backgrounds WebGL animados (waves, birds, fog, net). Setup e integração React. | `vanta`, `webgl background`, `animated background` |
+| **guimkt-wireframe-landing-page** | Gera wireframes completos de landing pages para leads (SQL) em 2 fases: Wireframe-Tabela (frameworks de copywriting) + Wireframe-Sketch HTML de baixa fidelidade para validação com clientes. | `wireframe LP`, `wireframe landing page`, `estruturar LP`, `wireframe visual` |
 
 ## 🚀 Instalação
 
@@ -147,9 +150,15 @@ gui-marketing-skills/
 │   │       └── motion-landing-page.md
 │   ├── guimkt-ia-marketing-philosophy/
 │   │   └── SKILL.md
+│   ├── guimkt-landing-page/
+│   │   ├── SKILL.md
+│   │   └── references/
 │   ├── interaction-design/
 │   │   └── SKILL.md
 │   ├── guimkt-make-blueprint-expert/
+│   ├── guimkt-meta-ads/
+│   │   ├── SKILL.md
+│   │   └── references/
 │   │   └── SKILL.md
 │   ├── matterjs/
 │   │   └── SKILL.md
@@ -168,6 +177,9 @@ gui-marketing-skills/
 │   │   └── scripts/
 │   ├── threejs-animation/
 │   │   └── SKILL.md
+│   ├── guimkt-wireframe-landing-page/
+│   │   ├── SKILL.md
+│   │   └── references/
 │   └── vantajs/
 │       └── SKILL.md
 └── docs/
