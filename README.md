@@ -12,6 +12,7 @@ Coleção de skills customizadas para agentes AI (Gemini, Claude Code, Cursor, W
 | **css-border-gradient** | Gradient borders CSS com pseudo-element mask. Inclui Tailwind e customização. | `gradient border`, `border glow`, `css gradient` |
 | **feedback-interpreter** | Interpreta e aplica feedbacks exportados do Feedback Studio (.md) em landing pages, wireframes e criativos. | `aplicar feedbacks`, `feedback studio`, `feedbacks exportados` |
 | **guimkt-giro-carousel** | Criar carrosséis completos para a editoria #giroguimkt do Instagram. Textos dos cards, prompts de imagem e legenda no tom editorial gui.marketing. | `#giroguimkt`, `giro da semana`, `carrossel semanal` |
+| **guimkt-google-ads** | Google Ads Search para geração de leads (SQLs). Pipeline de 4 fases: ICP, Keywords positivas, Keywords negativas, Anúncios RSA. Suporta multi-marca. | `Google Ads`, `campanha de pesquisa`, `keywords Google`, `anúncios responsivos`, `RSA` |
 | **gsap** | GSAP (GreenSock) - timelines, ScrollTrigger, stagger, transforms. Animações profissionais web. | `gsap`, `greensock`, `ScrollTrigger` |
 | **guimkt-gtm-expert** | Criar, editar, validar e gerenciar containers GTM JSON. Cobre tags Custom HTML, dataLayer, conversões (Google Ads, Meta Pixel, GA4), e sGTM. | `gtm`, `tag manager`, `container json` |
 | **guimkt-gtm-expert-template** | Customizar o template GTM Leads 2025 da guimarketing para novos clientes. GA4 + Meta Pixel + Google Ads + VisitorAPI + UTM + sGTM. | `new client GTM`, `customize GTM template` |
@@ -100,6 +101,11 @@ gui-marketing-skills/
 │   │       ├── editorial-voice.md
 │   │       ├── image-prompts.md
 │   │       └── caption-structure.md
+│   ├── guimkt-google-ads/
+│   │   ├── SKILL.md
+│   │   └── references/
+│   │       ├── negative-keywords-base.md
+│   │       └── output-examples.md
 │   ├── gsap/
 │   │   └── SKILL.md
 │   ├── guimkt-gtm-expert/
